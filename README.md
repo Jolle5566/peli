@@ -1,1 +1,2 @@
 # peli
+Ostakaa seiska
